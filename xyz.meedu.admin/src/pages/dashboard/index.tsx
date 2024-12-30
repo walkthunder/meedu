@@ -348,7 +348,7 @@ const DashboardPage = () => {
           </div>
         </div>
         <div className={styles["copyright"]}>
-          <p className="mb-10">Powered By MeEdu</p>
+          <p className="mb-10">Powered By 振乾</p>
           <p className={styles["info"]}>
             <span>PHP{systemInfo.php_version} </span>
             <span className="mx-10">API程序{systemInfo.meedu_version}</span>
